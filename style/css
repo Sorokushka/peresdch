@@ -1,0 +1,123 @@
+
+
+body {
+    background-color: #f5f0e6;
+    color: #5b4b3a;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: #a67c4f;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 26px;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 22px;
+    color: #8c6d4a;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #7d6a53;
+}
+
+a {
+    color: #a67c4f;
+    text-decoration: none;
+}
+
+header {
+    background-color: #d9ccb3;
+}
+
+.menu-table {
+    margin: auto;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-spacing: 30px; 
+}
+
+.cover {
+    display: flex;
+    justify-content: center; /* Центрирование картинки */
+    text-align: center;
+}
+
+.cover img {
+    width: 100%;
+    max-width: 1000px;
+    border: 3px solid #a67c4f;
+}
+
+.cover-caption {
+    color: #a67c4f;
+    margin-top: 10px;
+}
+
+.description {
+    background-color: #e7dfcc;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.description p {
+    max-width: 800px;
+    margin: auto;
+}
+
+.band {
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.members {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.member-card {
+    background-color: #d9ccb3;
+    width: 220px;
+    padding: 15px 15px 20px;
+    border: 2px solid #b89c6b;
+}
+
+.member-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-bottom: 2px solid #a67c4f;
+}
+
+.member-card h3 {
+    font-size: 1.3rem;
+    margin: 12px 0 5px;
+}
+
+.member-card p {
+    color: #7d6a53;
+    margin: 0;
+}
+
+footer {
+    background-color: #d9ccb3;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 30px;
+    border-top: 2px solid #a67c4f;
+}
