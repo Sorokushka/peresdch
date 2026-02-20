@@ -1,0 +1,101 @@
+ <style>
+
+    body {
+
+      background-image: url('https://matrixfitnessrussia.com/upload/resize_cache/iblock/a26/1200_800_0/nbdey22k9h36dyowwd1w0fvbax2egfbp.jpg'); 
+
+      font-family: Arial, sans-serif; 
+
+      margin: 0;
+
+      padding: 0;
+
+    }
+
+    header {
+
+      background-color: #FF7D20; 
+
+      text-align: center;
+
+      padding: 20px;
+
+    }
+
+    h1 {
+
+      font-family: "Times New Roman", serif; 
+
+      color: #13D8D8; 
+
+      font-size: 2.5em;
+
+      margin: 0;
+
+    }
+
+    h2, h3 {
+
+      text-align: center; 
+
+    }
+
+    p {
+
+      font-size: 1.1em; 
+
+      line-height: 1.6;
+
+      padding: 0 20px;
+
+    }
+
+    strong { font-weight: bold; }
+
+    em { font-style: italic; }
+
+    img {
+
+      max-width: 100%;
+
+      height: auto;
+
+      display: block;
+
+      margin: 10px auto;
+
+    }
+
+    hr {
+
+      border: 0;
+
+      height: 1px;
+
+      background: #ccc;
+
+      margin: 20px 0;
+
+    }
+
+    ul {
+
+      padding: 0 20px;
+
+    }
+
+    footer {
+
+      background-color: #13D8D8; 
+
+      color: white;
+
+      text-align: left; 
+
+      padding: 10px 20px;
+
+      font-size: 0.9em;
+
+    }
+
+  </style>
