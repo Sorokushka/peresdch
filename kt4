@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Леопарды</title>
+    <link rel="stylesheet" href="lastktcss.css">
+</head>
+<body>
+    <header>
+        <table class="menu-table">
+            <thead>
+                <tr>
+                    <th><a href="#about">Описание</a></th>
+                    <th><a href="#band">Виды</a></th>
+                    <th><a href="#footer">О лендинге</a></th>
+                </tr>
+            </thead>
+        </table>
+    </header>
+
+    <section class="cover">
+        <h1>ЛЕОПАРДЫ</h1>
+        <img src="https://www.supersadovnik.ru/binfiles/images/20250701/bb714cff.jpg" 
+        <p class="cover-caption">Красивое фото леопарда в естественной среде</p>
+    </section>
+
+    <section id="about" class="description">
+        <h2>О леопардах</h2>
+        <p>
+            <strong>Леопард</strong> — крупный хищник из рода кошачьих, известный своей пятнистой шкурой и впечатляющей силой. 
+            Обитает в Африке и частично в Азии, отлично приспособлен к разным условиям — от саванн до горных лесов. 
+            Леопарды — ночные охотники, питаются мелкими и средними млекопитающими, птицами и рептилиями. 
+            Благодаря скрытности и силе они считаются одними из самых успешных хищников в природе.
+        </p>
+    </section>
+
+    <section id="band" class="band">
+        <h2>Виды леопардов</h2>
+        <div class="members">
+            <div class="member-card">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt83jQ3Pg3vToPgx124fI8FFcMgS2pGdhBLA&s" alt="Африканский леопард">
+                <h3>Африканский леопард</h3>
+                <p>Обитает в Африке, самый распространённый вид</p>
+            </div>
+            <div class="member-card">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Bhrikuti.jpg" alt="Индийский леопард">
+                <h3>Индийский леопард</h3>
+                <p>Распространён на Индийском субконтиненте</p>
+            </div>
+            <div class="member-card">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Amur_Leopard_%28P.p._amurensis%29.jpg/330px-Amur_Leopard_%28P.p._amurensis%29.jpg" alt="Амурский леопард">
+                <h3>Амурский леопард</h3>
+                <p>Редкий и находящийся под угрозой вид, обитает в России и Китае</p>
+            </div>
+            <div class="member-card">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vjqtp-QNSCDtOLxwT0F4AfHebGN0Jgg0wAAHRp_cU21I6kIjjZ8ryGSUa1szPkXXq0icuYWm6yxmBO2JaAVbGVZ2XiNTzxiMywgADA&s=10" alt="Шри-Ланкийский леопард">
+                <h3>Шри-Ланкийский леопард</h3>
+                <p>Эндемик Шри-Ланки, адаптирован к влажным тропическим лесам</p>
+            </div>
+            <div class="member-card">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0BmMGEJlZUymIoSrmtuom83BJ14s_XMFcbQCKWVKrT4X17CdNy2ZQCwFmvXV9HfBnz6U8GZeg7ejDTmpgJ2K1VZO3NNM2TwaEG6loaA&s=10" alt="Яванский леопард">
+                <h3>Яванский леопард</h3>
+                <p>Обитает на острове Ява в Индонезии, имеет более мелкие размеры</p>
+            </div>
+        </div>
+        <p>фотографии взяты из открытых источников</p>
+    </section>
+
+    <footer id="footer">
+        <p>Лендинг о леопардах</p>
+        <p>Изображения взяты из открытых источников и я за них не отвечаю</p>
+        <p><a href="#">читать заново</a></p>
+    </footer>
+
+</body>
+</html>
